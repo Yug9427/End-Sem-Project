@@ -5,7 +5,7 @@
 
 A beautiful, colorful, terminal implementation of the classic 2048 puzzle game written in pure **C**, based on the legendary repository by [@mevdschee](https://github.com/mevdschee/2048.c).
 
-![Gameplay Screenshot](https://example.com/screenshot.jpg) <!-- Replace with actual image URL -->
+![Gameplay Screenshot](https://github.com/mevdschee/2048.c/blob/main/debian_2048.png?raw=true) <!-- Replace with actual image URL -->
 
 ## ✨ Features
 
@@ -181,7 +181,7 @@ This keeps movement logic DRY (Don't Repeat Yourself) and efficient.
 - Save/load game state to file
 - Support **terminal animations** (smooth tile transitions)
 - High score tracking across sessions
-- Multiplayer or AI auto-play mode for experiments
+- AI auto-play mode for experiments
 
 ---
 
