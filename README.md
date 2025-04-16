@@ -5,7 +5,7 @@
 
 A beautiful, colorful, terminal implementation of the classic 2048 puzzle game written in pure **C**, based on the legendary repository by [@mevdschee](https://github.com/mevdschee/2048.c).
 
-![Gameplay Screenshot](https://github.com/mevdschee/2048.c/blob/main/debian_2048.png?raw=true) <!-- Replace with actual image URL -->
+![Gameplay Screenshot](https://github.com/mevdschee/2048.c/blob/main/debian_2048.png?raw=true)
 
 ## ✨ Features
 
@@ -188,7 +188,7 @@ This keeps movement logic DRY (Don't Repeat Yourself) and efficient.
 ## 📚 Acknowledgements
 
 - Original implementation by [@mevdschee](https://github.com/mevdschee/2048.c)
-- Inspired by [2048 by Gabriele Cirulli](https://play2048.co/)
+- Inspired by [2048 by Gabriele Cirulli]
 - This version extends the original with added color themes, multiple controls, and documentation.
 
 ---
