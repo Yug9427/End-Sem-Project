@@ -110,9 +110,6 @@ Returns the number of empty tiles (`0`) on the board.
 ### `void rotateBoard()`
 Rotates the board 90° clockwise to help unify move logic.
 
-### `void rotateBoardBack()`
-Restores board to original orientation after move operation.
-
 ### `int slideArray(int *array)`
 Slides and merges a single row towards the left.
 
